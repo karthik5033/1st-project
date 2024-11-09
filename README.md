@@ -4,3 +4,5 @@ this is my 1st official repository.
 here i store my practiced problems
 <br>
 author:karthik
+<br>
+exploring the git commands
